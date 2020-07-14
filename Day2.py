@@ -35,7 +35,7 @@ print(days)
 
 remove_x(days, "Mon")
 print(days)
-
+#debug#
 
 # /\/\/\/\/\/\/\ END DO NOT TOUCH AREA /\/\/\/\/\/\/\ #
 
