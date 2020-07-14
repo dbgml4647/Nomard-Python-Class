@@ -5,7 +5,7 @@ Sometimes you have to use 'return' and sometimes you dont.
 Start by creating the functions
 """
 
-# \/\/\/\/\/\/\  DO NOT TOUCH AREA  \/\/\/\/\/\/\ #
+# \/\/\/\/\/\/\  DO NOT TOUCH AREA  \/\/\/\\/\ #
 
 def is_on_list(days,day):
     if day in days:
@@ -29,7 +29,7 @@ print("Is Wed on 'days' list?", is_on_list(days, "Wed"))
 
 print("The fourth item in 'days' is:", get_x(days, 3))
 
-
+print("done!")
 add_x(days, "Sat")
 print(days)
 
